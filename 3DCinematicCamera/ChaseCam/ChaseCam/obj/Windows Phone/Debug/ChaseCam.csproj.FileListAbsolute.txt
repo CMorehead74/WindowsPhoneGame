@@ -1,0 +1,58 @@
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\House.xnb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\PaperPlane.xnb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Grass.xnb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Building3_0.xnb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.dll
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.dll
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.xap
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCam\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\House.xnb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\PaperPlane.xnb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Grass.xnb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Building3_0.xnb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.dll
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.dll
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.xap
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\House.xnb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\PaperPlane.xnb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Grass.xnb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Building3_0.xnb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.dll
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.csprojResolveAssemblyReference.cache
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.dll
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\ChaseCam.pdb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.xap
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\ChaseCam.xap
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

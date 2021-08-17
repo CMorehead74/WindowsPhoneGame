@@ -1,0 +1,3 @@
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\ChaseCam\ChaseCamContent\obj\Windows Phone\Debug\ChaseCamContent.contentprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\ChaseCam\ChaseCamContent\obj\Windows Phone\Debug\ChaseCamContent.contentprojResolveAssemblyReference.cache
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCamContent\obj\Windows Phone\Debug\ChaseCamContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>House.x</Source>
+      <Name>House</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\House.xnb</Output>
+      <Time>2010-09-08T22:24:30-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\House_0.xml</Key>
+        <Value>2012-11-04T18:14:04.4780054-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Building3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>PaperPlane.x</Source>
+      <Name>PaperPlane</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\PaperPlane.xnb</Output>
+      <Time>2010-09-09T23:41:42-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\PaperPlane_0.xml</Key>
+        <Value>2012-11-04T18:14:05.1080063-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Grass.png</Source>
+      <Name>Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Grass.xnb</Output>
+      <Time>2010-09-08T23:33:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>House.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\House_0.xml</Output>
+      <Time>2010-09-08T22:24:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\Building3_0.xnb</Output>
+      <Time>2010-09-08T22:24:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PaperPlane.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\PaperPlane_0.xml</Output>
+      <Time>2010-09-09T23:41:42-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A62D4A03-321E-4D42-93E5-9BD5B2DC7766}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\ChaseCam\ChaseCam\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-04T18:05:09.290073-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
