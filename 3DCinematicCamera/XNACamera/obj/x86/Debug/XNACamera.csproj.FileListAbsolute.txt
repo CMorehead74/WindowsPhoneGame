@@ -1,0 +1,12 @@
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Effects\parallax_normal_mapping.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Models\bigship1.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Textures\floor_color_map.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Textures\floor_height_map.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Textures\floor_normal_map.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\Content\Fonts\DemoFont12pt.xnb
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\XNACamera.exe
+C:\Users\David\Downloads\XNACamera\bin\x86\Debug\XNACamera.pdb
+C:\Users\David\Downloads\XNACamera\obj\x86\Debug\XNACamera.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\XNACamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Downloads\XNACamera\obj\x86\Debug\XNACamera.exe
+C:\Users\David\Downloads\XNACamera\obj\x86\Debug\XNACamera.pdb

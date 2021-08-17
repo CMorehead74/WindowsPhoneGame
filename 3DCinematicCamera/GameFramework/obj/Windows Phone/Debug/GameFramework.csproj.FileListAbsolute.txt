@@ -1,0 +1,16 @@
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\GameFramework\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\GameFramework\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\GameFramework\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\GameFramework\obj\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Downloads\9781430233060\Windows Phone 7 Game Dev\Chapter8\GameFramework\obj\Windows Phone\Debug\GameFramework.pdb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\GameFramework\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\GameFramework\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\GameFramework.dll
+C:\Users\David\Desktop\Guild of Independent Game Developers - Character State Machine\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\GameFramework.pdb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\bin\Windows Phone\Debug\GameFramework.dll
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\bin\Windows Phone\Debug\GameFramework.pdb
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\GameFramework.csprojResolveAssemblyReference.cache
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\GameFramework.dll
+C:\Users\Morehead\Documents\FullSail\3D Cinematic Camera\GameFramework\obj\Windows Phone\Debug\GameFramework.pdb
